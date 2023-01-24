@@ -41,8 +41,8 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 ### Data Base:
-![SQLServer](https://img.shields.io/badge/-DotNet-0D1117?style=for-the-badge&logo=DotNet&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-DotNet-0D1117?style=for-the-badge&logo=DotNet&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![SQLServer](https://img.shields.io/badge/-SQLServer-0D1117?style=for-the-badge&logo=SQLServer&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=Firebase&labelColor=0D1117)&nbsp;
 
