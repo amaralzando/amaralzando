@@ -21,6 +21,7 @@
 <!-- ![Angular.js#](https://img.shields.io/badge/-Angular.js-0D1117?style=for-the-badge&logo=Angular&logoColor=purple&labelColor=0D1117)&nbsp;
 ![typescript#](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=purple&labelColor=0D1117)&nbsp; -->
 <!-- ![bootstrap#](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=purple&labelColor=0D1117)&nbsp; -->
+![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logoColor=purple&labelColor=0D1117)&nbsp;
 
 ### Frontend Development:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
