@@ -18,15 +18,13 @@
   
 
 ### Studying programming languages:
-![JQuerry#](https://img.shields.io/badge/-JQuerry-0D1117?style=for-the-badge&logo=JQuerry&logoColor=purple&labelColor=0D1117)&nbsp;
-![Ajax#](https://img.shields.io/badge/-Ajax-0D1117?style=for-the-badge&logo=Ajax&logoColor=purple&labelColor=0D1117)&nbsp;
 <!-- ![Angular.js#](https://img.shields.io/badge/-Angular.js-0D1117?style=for-the-badge&logo=Angular&logoColor=purple&labelColor=0D1117)&nbsp;
 ![typescript#](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=purple&labelColor=0D1117)&nbsp; -->
 <!-- ![bootstrap#](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=purple&labelColor=0D1117)&nbsp; -->
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 
 ### Frontend Development:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
