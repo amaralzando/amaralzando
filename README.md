@@ -21,7 +21,6 @@
 <!-- ![Angular.js#](https://img.shields.io/badge/-Angular.js-0D1117?style=for-the-badge&logo=Angular&logoColor=purple&labelColor=0D1117)&nbsp;
 ![typescript#](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=purple&labelColor=0D1117)&nbsp; -->
 <!-- ![bootstrap#](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=purple&labelColor=0D1117)&nbsp; -->
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 
 ### Frontend Development:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
@@ -29,6 +28,10 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 <!-- ![python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp; -->
+
+### Backend Development:
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logoColor=purple&labelColor=0D1117)&nbsp;
 
 ### Mobile Development:
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=Flutter&logoColor=1572B6&labelColor=0D1117)&nbsp;
