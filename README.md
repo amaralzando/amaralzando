@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Amaral;I'm+21+years+old;I+from+Brasil,+SP;I+study+FrontEnd;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=amaralzando&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=amaralzando&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Amaral github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaralzando&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
@@ -28,7 +28,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-<!-- ![python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp; -->
+![python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### Backend Development:
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
@@ -45,8 +45,7 @@
 ### Data Base:
 ![SQLServer](https://img.shields.io/badge/-SQLServer-0D1117?style=for-the-badge&logo=SQLServer&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&logoColor=1572B6&labelColor=0D1117)&nbsp;
-<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=Firebase&labelColor=0D1117)&nbsp; -->
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117)&nbsp;
 
 ### Framework:
 ![DotNet](https://img.shields.io/badge/-DotNet-0D1117?style=for-the-badge&logo=DotNet&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -54,7 +53,7 @@
 ### Software:
 ![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=Azure&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![PhotoShop](https://img.shields.io/badge/-PhotoShop-0D1117?style=for-the-badge&logo=PhotoShop&logoColor=1572B6&labelColor=0D1117)&nbsp;
-<!-- ![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=Postman&logoColor=1572B6&labelColor=0D1117)&nbsp; -->
+![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=Postman&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=for-the-badge&logo=Arduino&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
